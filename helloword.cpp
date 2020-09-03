@@ -1,7 +1,7 @@
 #include <iostream>
  
 using namespace std;
- 
+
 class Line
 {
    public:
@@ -37,6 +37,5 @@ int main( )
    line.setLength(6.0); 
    cout << "Length of line : " << line.getLength() <<endl;
 	while(1);
-    DDDDDDDDDDD
    return 0;
 }
