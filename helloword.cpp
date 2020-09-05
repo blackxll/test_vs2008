@@ -3,25 +3,13 @@
 #include <iostream>
 #include <stdio.h>
 #include "piPrint.h"
+#include "primeNumber.h"
 
-//long a=1000;
-//long b=0;
-//long c=10000;
-//long d,e;
-//long f[10001];
-//long g;
 void main(void)
 {
-	//printf("%.4d",e+d/a);
-	//for(;b!=c;f[b++]=a/5);
-	//	printf("%.4d",f[b]);
-
-	//for(;d=0,g=c*2,c>5000;c--,printf("%.3d",e+d/a),e=d%a)
-	//for(b=c;d+=f[b]*a,f[b]=d%--g,d/=g--,--b;d*=b);
-	//system("pause");
 	piPrintFunction();
+	printPrimeNumber();
 }
-
 
 /*
 CanExtTxPDO_t::CanExtTxPDO_t(unsigned char arg0, unsigned char arg1)
