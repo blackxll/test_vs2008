@@ -1,9 +1,8 @@
 //#include <stdafx.h>
-#include "class_test.h"
 #include <iostream>
 #include <stdio.h>
-#include "piPrint.h"
-#include "primeNumber.h"
+#include "include\piPrint.h"
+#include "include\primeNumber.h"
 
 void main(void)
 {
